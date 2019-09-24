@@ -1,5 +1,5 @@
 #Python project 123
-#123 sample test to Git.
+#123 sample test to Git..
 def Pattern(line):
 	pat=""
 	for i in range(0,line):
